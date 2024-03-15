@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/424/618/478/music-dream-purpura-wallpaper-preview.jpg);
+    justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+    
+}
+
+.q{
+    width: 400px;
+    height: 400px;
+    border: 3px solid red;
+    border-radius: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background-image: url(https://scitechdaily.com/images/Music-Rhythm-Frequency-Waveform.gif);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0px 0px 25px 10px  rgb(0, 252, 210);
+   
+    
+}
+.q :hover{
+    width: 50px;
+    height: 10px;
+    
+}
+ 
